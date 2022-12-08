@@ -12,10 +12,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "buffer": "^5.7.1",
     "parcel": "^2.8.0",
     "vercel": "^28.7.2"
   },
   "dependencies": {
+    "echarts": "^5.4.0",
     "node-fetch": "^2.6.7"
   }
 }
